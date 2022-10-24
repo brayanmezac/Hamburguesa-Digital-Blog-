@@ -29,7 +29,7 @@ module.exports = {
             slug: `/blog`,
           },
           {
-            title: `Categoría`,
+            title: `Sobre Nosotros`,
             slug: `/about`,
           },
         ],
@@ -39,7 +39,7 @@ module.exports = {
             url: `https://twitter.com/BrayanMezaC_Dev`,
           },
           {
-            name: `Homepage`,
+            name: `Youtube`,
             url: `https://www.youtube.com/channel/UCAzVCmasqPB3qnXiMCMHCNg`,
           },
         ],
