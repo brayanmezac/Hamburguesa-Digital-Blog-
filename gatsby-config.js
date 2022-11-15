@@ -127,7 +127,7 @@ module.exports = {
       },
     },
     shouldAnalyseBundle && {
-      resolve: `gatsby-plugin-webpack-bundle-analyser-v2`,
+      resolve: `Hamburguesa Digital-Blog`,
       options: {
         analyzerMode: `static`,
         reportFilename: `_bundle.html`,
